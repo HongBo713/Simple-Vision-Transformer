@@ -17,3 +17,9 @@ This project is an implementation of the Vision Transformer (ViT), which leverag
    git clone https://github.com/your-username/Simple-Vision-Transformer.git
    cd Simple-Vision-Transformer
 
+### Explanation
+
+- **Overview Section**: The original implementation was developed by Tin Nguyen and can be found [here](https://github.com/tintn/vision-transformer-from-scratch).
+- **Acknowledgements Section**: The original implementation was developed by Tin Nguyen and can be found [here](https://github.com/tintn/vision-transformer-from-scratch).
+
+This ensures that you are giving proper credit to the creators of the original implementation and maintaining transparency in your work.
