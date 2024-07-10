@@ -16,7 +16,10 @@ This project is an implementation of the Vision Transformer (ViT), which leverag
    ```bash
    git clone https://github.com/your-username/Simple-Vision-Transformer.git
    cd Simple-Vision-Transformer
+   
+## Acknowledgements
+Original implementation by by Tin Nguyen and can be found [here](https://github.com/tintn/vision-transformer-from-scratch).
+Inspired by the work [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929).
 
-
-Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any improvements or bug fixes.
